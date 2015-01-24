@@ -69,12 +69,12 @@
 <div class="navbar navbar-fixed-top">
   <div class="navbar-inner">
     <div class="container">
-      <a href="/" class="brand">Spring MVC and Hibernate Template</a>
+      <a href="/" class="brand">Penhchet Shopping</a>
       <!--
       IMPORTANT:
       This is Heroku specific markup. Remove to customize.
       -->
-      <a href="/" class="brand" id="heroku">by <strong>heroku</strong></a>
+      <a href="/" class="brand" id="heroku">by <strong>Dara Penhchet</strong></a>
       <!-- /// -->
     </div>
   </div>
