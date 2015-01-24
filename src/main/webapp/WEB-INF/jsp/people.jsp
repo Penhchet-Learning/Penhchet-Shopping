@@ -26,7 +26,7 @@
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
-            <a href="/" class="brand">Penhchet Shopping</a>
+            <a href="/" class="brand"><i><strong>Penhchet Shopping</strong></i></a>
             <a href="/" class="brand" id="heroku">by <strong><i>DARA PENHCHET</i></strong></a>
         </div>
     </div>

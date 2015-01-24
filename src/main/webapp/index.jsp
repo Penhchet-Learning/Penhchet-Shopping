@@ -74,7 +74,7 @@
       IMPORTANT:
       This is Heroku specific markup. Remove to customize.
       -->
-      <a href="/" class="brand" id="heroku">by <strong>Dara Penhchet</strong></a>
+      <a href="/" class="brand" id="heroku">by <strong><i>Dara Penhchet</i></strong></a>
       <!-- /// -->
     </div>
   </div>
