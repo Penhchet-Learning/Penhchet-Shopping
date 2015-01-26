@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Welcome to <strong><i>Penhchet Shopping</i></strong></title>
+  <title>Welcome to Penhchet Shopping</title>
 
   <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -48,6 +48,9 @@
       -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
       box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
     }
+    navbar{
+    	height: 70px;
+    }
   </style>
   <!-- /// -->
   <script type="text/javascript">
@@ -64,11 +67,8 @@
   <div class="navbar-inner">
     <div class="container">
       <a href="/" class="brand"><i><strong>Penhchet Shopping</strong></i></a>
-      <!--
-      IMPORTANT:
-      This is Heroku specific markup. Remove to customize.
-      -->
-      <a href="/" class="brand" id="heroku">by <strong><i>Dara Penhchet</i></strong></a>
+
+      <a href="/" class="brand" id="darapenhchet">by <strong><i>Dara Penhchet</i></strong></a>
       <!-- /// -->
     </div>
   </div>
